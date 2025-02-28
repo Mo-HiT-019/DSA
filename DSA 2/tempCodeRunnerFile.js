@@ -1,0 +1,1 @@
+result[words1[i]]=false;
